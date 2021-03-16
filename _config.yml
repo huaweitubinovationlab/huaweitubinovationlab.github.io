@@ -6,10 +6,9 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Innovation Joint Lab; Technical University Berlin and Huawei
+description: We are group of international researchers conducting high-imapact foundational research in Big Data and Machine Learning for AI-enabled IT Operations to profoundly advance the state-of-the-art for managing critical IT infrastructures. We invent prototypical AI-enabled IT technologies for public, private, and edge clouds and support knowledge increase and tool availability to empower innovation in Huawei product development. We create courses and teaching materials for future academic and industrial careers as well as for life-long learning of business professionals.
 
-# Your name to show in the footer
-author: Some Person
 
 # --- List of links in the navigation bar --- #
 
