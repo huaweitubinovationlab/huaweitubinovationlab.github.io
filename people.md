@@ -11,10 +11,6 @@ executive-board:
     desc: Founder, President, Project Coordinator
     website: https://www.cit.tu-berlin.de/kao/
 
-administrative-board:
-  - name: Jana Bechstein
-    desc: secretary
-
 advisory-board:
   - name: Gregory Armstrong
     img: /img/people/gregory-armstrong.jpg
