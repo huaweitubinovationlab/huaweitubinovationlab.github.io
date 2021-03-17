@@ -16,4 +16,3 @@ subtitle: Schedule of important events
 | xx.06.2021    | Virtual Retread            | preparation |
 | 22.02.2021    | JointLab Kick-off meeting  | finished    |
 | 14.12.2020    | First AIOPS workshop       | finished    |
-<\center>
