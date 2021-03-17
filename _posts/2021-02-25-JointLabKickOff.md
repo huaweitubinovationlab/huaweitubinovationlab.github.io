@@ -3,8 +3,8 @@ layout: post
 title: JointLab Kick-off meeting
 subtitle: Experience report
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /img/news/2020-12-24/back_ground_img.jpeg
+thumbnail-img: /img/news/2020-12-24/background_image.png
 tags: [AIOPs, workshop, events, videos]
 ---
 
