@@ -5,12 +5,6 @@ subtitle: List of Publications
 
 Enlisted are some of our contributions to the area of AIOps:
 
-*Feature extraction for heartbeat classification in single-lead ECG.*
-**Bogatinovski, J.**, Kocev, D., Rashkovska, A. (2019)
-In Proceedings of the 42nd International Convention on Information and Communication Technology, Electronics and Microelectronics - MIPRO (pp. 339–345) Opatija Croatia
-**Exceptional and outstanding paper award.**
-[IEEE Explore.](https://ieeexplore.ieee.org/document/8757135)
-
 *Self-Supervised Log Parsing*
 **Bogatinovski J.**, Nedelkoski S., Acker A., J Cardoso, Kao O.
 In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, ECML-PKDD 2020
