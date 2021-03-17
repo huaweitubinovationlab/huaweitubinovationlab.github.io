@@ -3,6 +3,8 @@ title: Publications
 subtitle: List of Publications
 ---
 
+Enlisted are some of our contributions to the area of AIOps:
+
 *Feature extraction for heartbeat classification in single-lead ECG.*
 **Bogatinovski, J.**, Kocev, D., Rashkovska, A. (2019)
 In Proceedings of the 42nd International Convention on Information and Communication Technology, Electronics and Microelectronics - MIPRO (pp. 339–345) Opatija Croatia
