@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First International Workshop on AIOPS
+title: JointLab Kick-off meeting
 subtitle: Experience report
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
