@@ -13,7 +13,7 @@ description: Here goes our mission
 navbar-links:
   JointLab: "JointLab"
   People: "people"
-  Publications: "publications"
+  Publications: "paper"
   Events: "events"
   Resources:
     - DOS group: "https://github.com/dos-group"
