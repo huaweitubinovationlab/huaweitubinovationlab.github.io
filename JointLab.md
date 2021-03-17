@@ -4,8 +4,15 @@ subtitle: Mission
 ---
 ## What is the JointLab?
 
-The JointLab is a collaborative hub between Technical University Berlin and Huawei. The main goal is establishing a worldwide leading site for research on AI-enabled IT Operations to empower resilient public, private, and edge cloud IT infrastructures for an autonomous world.
+The JointLab is a collaborative hub between Technical University Berlin and Huawei. The main goal is establishing a worldwide leading site for research on AI-enabled IT Operations to empower resilient public, private, and edge cloud IT infrastructures for an autonomous world. We combine extensive industrial and academic experiences to identify and address the challenges arising in the operation of autonomous large scale IT systems.
 
+Our mission is to:
+
+1) **Research:**: Conduct high-impact foundational research in Big Data and Machine Learning for AI-enabled IT Operations to profoundly advance the state-of-the-art for managing critical IT infrastructures.
+
+2) **Innovate:**: Develop prototypical AI-enabled IT technologies for public, private, and edge clouds and support knowledge increase and tool availability to empower innovation in Huawei product development.
+
+3) **Educate**: Create courses and teaching materials for future academic and industrial careers as well as for life-long learning of business professionals.
 
 
 
@@ -26,10 +33,3 @@ Publicity & Visibility: # of organized conferences, workshops and seminars
 R&D Network: Connections to external professors, departments and relevant industrial partners
 Expert attraction: Internships, PhDs and postdocs
 Shaping next generation of AIOps experts: # of completed PhD, Master and Bachelor Thesis
-
-
-
-What will be the outcome of the Innovation Lab?
-Research: Conduct high-impact foundational research in Big Data and Machine Learning for AI-enabled IT Operations to profoundly advance the state-of-the-art for managing critical IT infrastructures.
-Innovation: Prototype AI-enabled IT technologies for public, private, and edge clouds and support knowledge increase and tool availability to empower innovation in Huawei product development
-Education: Create courses and teaching materials for future academic and industrial careers as well as for life-long learning of business professionals
