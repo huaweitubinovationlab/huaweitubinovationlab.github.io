@@ -10,9 +10,12 @@ subtitle: Schedule of important events
 | zebra stripes | are neat      |    $1 | -->
 
 
+<div align="center">
+
 | Date          | Event                      | Status|
 |:-------------:|:--------------------------:|:-----:|
 | xx.xx.2021    | Second AIOPS workshop      | proposal submitted |
 | xx.06.2021    | Virtual Retread            | preparation |
 | 22.02.2021    | JointLab Kick-off meeting  | finished    |
 | 14.12.2020    | First AIOPS workshop       | finished    |
+</div>
