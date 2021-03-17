@@ -3,11 +3,7 @@ title: Publications
 subtitle: List of Publications
 ---
 
-*Feature extraction for heartbeat classification in single-lead ECG.*
-**Bogatinovski, J.**, Kocev, D., Rashkovska, A. (2019)
-In Proceedings of the 42nd International Convention on Information and Communication Technology, Electronics and Microelectronics - MIPRO (pp. 339–345) Opatija Croatia
-**Exceptional and outstanding paper award.**
-[IEEE Explore.](https://ieeexplore.ieee.org/document/8757135)
+Enlisted are some of our contributions to the area of AIOps:
 
 *Self-Supervised Log Parsing*
 **Bogatinovski J.**, Nedelkoski S., Acker A., J Cardoso, Kao O.
