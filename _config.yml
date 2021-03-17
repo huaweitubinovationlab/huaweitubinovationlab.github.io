@@ -15,8 +15,7 @@ navbar-links:
   People: "people"
   Events: "events"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - DOS group: "https://github.com/dos-group"
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
