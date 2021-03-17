@@ -9,7 +9,7 @@ subtitle: Schedule of important events
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 | -->
 
-<center>
+
 | Date          | Event                      | Status|
 |:-------------:|:--------------------------:|:-----:|
 | xx.xx.2021    | Second AIOPS workshop      | proposal submitted |
