@@ -5,7 +5,7 @@ subtitle: List of Publications
 
 Enlisted are some of our contributions to the area of AIOps:
 
-*Self-Supervised Log Parsing*
+<!-- *Self-Supervised Log Parsing*
 **Bogatinovski J.**, Nedelkoski S., Acker A., J Cardoso, Kao O.
 In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, ECML-PKDD 2020
 [arXiv](https://arxiv.org/abs/2003.07905)
@@ -47,4 +47,4 @@ In Proceedings of the 15th Conference on Computer Science and Information System
 *MicroDiag: Fine-grained Performance Diagnosis for Microservice Systems*
 Wu L., Tordsson J., **Bogatinovski J.**, Elmroth E., Kao O.
 In Proceedings of the 43th International Conference on Software Engineering (ICSE 2021) Workshop on Cloud Intelligence	2021
-[HAL](https://hal.inria.fr/hal-03155797/)
+[HAL](https://hal.inria.fr/hal-03155797/) -->
