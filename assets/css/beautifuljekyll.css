@@ -810,7 +810,9 @@ table {
 table tr {
   border-top: 1px solid #cccccc;
   background-color: #ffffff;
-  margin: 0;
+  /* margin: 0; */
+  margin-left: auto;
+  margin-right: auto;
   padding: 0;
 }
 table tr:nth-child(2n) {
