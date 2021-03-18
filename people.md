@@ -1,24 +1,68 @@
 ---
 title: People
 subtitle: The humans behind this project
-executive-board:
+technical-streeing-committee:
+  - name: Odej Kao
+    img: /img/people/odej-kao.jpg
+    desc: Chair, Project Managment Office
+    website: https://www.cit.tu-berlin.de/kao/
+  - name: Jorge Cardoso
+    img: /img/people/jorge-cardoso.jpeg
+    desc: Chair
+    website: https://jorge-cardoso.github.io/
+research-and-development-Team1:
   - name: Odej Kao
     img: /img/people/odej-kao.jpg
     desc: Founder, President, Project Coordinator
     website: https://www.cit.tu-berlin.de/kao/
+  - name: Jorge Cardoso
+    img: /img/people/jorge-cardoso.jpeg
+    desc: Huawei Representative, Project Coordinator
+    website: https://jorge-cardoso.github.io/
+research-and-development-Team2:
   - name: Stefan Schmid
+    img: /img/people/stefan-schmid.jpg
+    desc: Huawei Project Cooridantor
+    website: https://www.univie.ac.at/ct/stefan/
+  - name: Zhang Ke
     img: /img/people/stefan-schmid.jpg
     desc: Founder, President, Project Coordinator
     website: https://www.univie.ac.at/ct/stefan/
-  - name: Jorge Cardoso
-    img: /img/people/jorge-cardoso.jpeg
-    desc: Founder, Huawei Representative, Project Coordinator
-    website: https://jorge-cardoso.github.io/
-advisory-board:
-  - name: Odej Kao
-    img: /img/people/odej-kao.jpg
-    desc: Founder, President, Project Coordinator
-    website: https://www.cit.tu-berlin.de/kao/
+---
+
+
+## Executive board
+
+The Huawei-TUB Innovation Lab for AI-driven Autonomous Operations is headed by:
+
+{% include list-circles.html items=page.technical-streeing-committee %}
+
+
+## Research and development
+
+Currently there are two active projects operating in the lab:
+
+1. AI-enabled Operations for predictable fault tolerance
+
+{% include list-circles.html items=page.research-and-development-Team1 %}
+
+2. Network Automation and CDNs
+
+{% include list-circles.html items=page.research-and-development-Team2 %}
+
+<!-- ## Members
+
+Members are people actively involved in, and contributing to, the JointLab activities.
+
+{% include list-circles.html items=page.members %} -->
+
+
+<!-- ## Advisory board
+
+We are extremely lucky to have the following people supporting and guiding our efforts:
+{% include list-circles.html items=page.advisory-board %} -->
+
+<!--
 members:
   - name: Jasmin Bogatinovski
     img: /img/people/jasmin-bogatinovski.jpeg
@@ -39,25 +83,4 @@ members:
     desc: PhD student
   - name: Thorsten Wittkopp
     img: /img/people/li.jpg
-    desc: PhD student
----
-
-
-## Executive board
-
-These people are currently heading the JointLab.
-
-{% include list-circles.html items=page.executive-board %}
-
-
-## Members
-
-Members are people actively involved in, and contributing to, the JointLab activities.
-
-{% include list-circles.html items=page.members %}
-
-
-## Advisory board
-
-We are extremely lucky to have the following people supporting and guiding our efforts:
-{% include list-circles.html items=page.advisory-board %}
+    desc: PhD student -->
