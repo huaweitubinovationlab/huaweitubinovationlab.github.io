@@ -12,7 +12,7 @@ description: Here goes our mission
 
 navbar-links:
   JointLab: "JointLab"
-  People: "people"
+  Organization: "people"
   Publications: "paper"
   Events: "events"
   Resources:

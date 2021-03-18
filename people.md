@@ -1,6 +1,6 @@
 ---
-title: People
-subtitle: The humans behind this project
+title: Organization
+subtitle: Huawei TUB Innovation Lab Structure
 technical-streeing-committee:
   - name: Odej Kao
     img: /img/people/odej-kao.jpg
