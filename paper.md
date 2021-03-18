@@ -69,7 +69,7 @@ Nedelkoski S., Bogojevski M., Kao O.
 In 2020 International Conference on Machine Learning, Optimization, and Data Science, LOD 2020, pages 137–149, 2020.  
 [arxiv](https://arxiv.org/abs/2009.03651)
 
-**Performance diagnosis in cloud microservices using deep learning**
+**Performance diagnosis in cloud microservices using deep learning**  
 Wu L., Bogatinovski J., Nedelkoski S., Tordsson J., and Kao O.  
 In 18th International Conference on Service-Oriented Computing, To appear, Dubai,United Arab Emirates, December 2020. Springer.  
 [arxiv](https://hal.inria.fr/hal-03155797/)
