@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Huawei-TUB Innovation Lab Kick-off meeting
+title: Huawei TUB Innovation Lab Kick-off meeting
 subtitle: Experience report
 cover-img: /assets/img/path.jpg
 cover-img: /img/news/2020-12-24/back_ground_img.jpeg
