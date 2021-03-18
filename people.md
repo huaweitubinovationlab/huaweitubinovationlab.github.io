@@ -13,20 +13,20 @@ technical-streeing-committee:
 research-and-development-Team1:
   - name: Odej Kao
     img: /img/people/odej-kao.jpg
-    desc: TUB Representative,
+    desc: TUB Representative
     website: https://www.cit.tu-berlin.de/kao/
   - name: Jorge Cardoso
     img: /img/people/jorge-cardoso.jpeg
-    desc: Huawei Representative
+    desc: Huawei Project Coordinator
     website: https://jorge-cardoso.github.io/
 research-and-development-Team2:
   - name: Stefan Schmid
     img: /img/people/stefan-schmid.jpg
-    desc: Huawei Project Cooridantor
+    desc: TUB Project Coordinator
     website: https://www.univie.ac.at/ct/stefan/
   - name: Zhang Ke
     img: /img/people/stefan-schmid.jpg
-    desc: Founder, President, Project Coordinator
+    desc: Huawei Project Cooridantor
     website: https://www.univie.ac.at/ct/stefan/
 ---
 
