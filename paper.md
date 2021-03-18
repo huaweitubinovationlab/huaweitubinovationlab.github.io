@@ -17,7 +17,7 @@ In Proceedings of the 43th International Conference on Software Engineering (ICS
 
 *Optimizing convergence for iterative learning of arima for stationary time series*  
 Styp-Rekowski K., Schmidt F., Kao O.  
-In 2020 IEEE Inter-national Conference on Big Data, To appear. IEEE, 2021.
+In 2020 IEEE Inter-national Conference on Big Data, To appear. IEEE, 2021.  
 [arxiv](https://arxiv.org/abs/2101.10037)
 
 *Learning dependencies in distributed cloud applications to identify and localize anomalies*  
@@ -109,10 +109,10 @@ Bearner A.,  Hübers H. M., Kao O., Schmidt F., Becker S., Denzler J., Matolin 
 
 *Autoencoder-based condition monitoring and anomaly detection method for rotating machines*  
 Ahmad S., Styp-Rekowski K., Nedelkoski S., Kao O.  
-In 2020 IEEE International Conference on Big Data, To appear. IEEE, 2020.
+In 2020 IEEE International Conference on Big Data, To appear. IEEE, 2020.  
 [arxiv](https://arxiv.org/abs/2101.11539)
 
 *Mary, hugo, and hugoi: Learning to schedule distributed data-parallel processing jobs on shared clusters*  
 Tran V. T., Nedelkoski S., Thamsen L., Beilharz J., Kao O.  
-Concurrency and Computation: Practiceand Experience, page e5823, 2020.
+Concurrency and Computation: Practiceand Experience, page e5823, 2020.  
 [link](https://onlinelibrary.wiley.com/doi/full/10.1002/cpe.5823)
