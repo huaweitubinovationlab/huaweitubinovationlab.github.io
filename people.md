@@ -42,11 +42,11 @@ The Huawei-TUB Innovation Lab for AI-driven Autonomous Operations is headed by:
 
 Currently there are two active projects operating in the lab:
 
-AI-enabled Operations for predictable fault tolerance
+### AI-enabled Operations for predictable fault tolerance
 
 {% include list-circles.html items=page.research-and-development-Team1 %}
 
-Network Automation and CDNs
+### Network Automation and CDNs
 
 {% include list-circles.html items=page.research-and-development-Team2 %}
 
