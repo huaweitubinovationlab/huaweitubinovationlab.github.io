@@ -13,7 +13,7 @@ technical-streeing-committee:
 research-and-development-Team1:
   - name: Odej Kao
     img: /img/people/odej-kao.jpg
-    desc: TUB Representative
+    desc: TUB Project Coordinator
     website: https://www.cit.tu-berlin.de/kao/
   - name: Jorge Cardoso
     img: /img/people/jorge-cardoso.jpeg
