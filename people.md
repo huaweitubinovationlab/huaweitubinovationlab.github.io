@@ -13,11 +13,11 @@ technical-streeing-committee:
 research-and-development-Team1:
   - name: Odej Kao
     img: /img/people/odej-kao.jpg
-    desc: Founder, President, Project Coordinator
+    desc: TUB Representative,
     website: https://www.cit.tu-berlin.de/kao/
   - name: Jorge Cardoso
     img: /img/people/jorge-cardoso.jpeg
-    desc: Huawei Representative, Project Coordinator
+    desc: Huawei Representative
     website: https://jorge-cardoso.github.io/
 research-and-development-Team2:
   - name: Stefan Schmid
@@ -42,13 +42,9 @@ The Huawei-TUB Innovation Lab for AI-driven Autonomous Operations is headed by:
 
 Currently there are two active projects operating in the lab:
 
-1. AI-enabled Operations for predictable fault tolerance
+1. AI-enabled Operations for predictable fault tolerance {% include list-circles.html items=page.research-and-development-Team1 %}
 
-{% include list-circles.html items=page.research-and-development-Team1 %}
-
-2. Network Automation and CDNs
-
-{% include list-circles.html items=page.research-and-development-Team2 %}
+2. Network Automation and CDNs {% include list-circles.html items=page.research-and-development-Team2 %}
 
 <!-- ## Members
 
