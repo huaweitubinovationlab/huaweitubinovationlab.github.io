@@ -25,9 +25,8 @@ research-and-development-Team2:
     desc: TUB Project Coordinator
     website: https://www.univie.ac.at/ct/stefan/
   - name: Zhang Ke
-    img: /img/people/stefan-schmid.jpg
+    img: /img/people/default.jpg
     desc: Huawei Project Cooridantor
-    website: https://www.univie.ac.at/ct/stefan/
 ---
 
 
