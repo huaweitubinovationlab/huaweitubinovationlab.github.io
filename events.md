@@ -16,4 +16,4 @@ subtitle: Schedule of important events
 | xx.06.2021    | [The 1st Network Verification Workshop](https://networkverification-workshop.github.io/)           | preparation |
 | xx.06.2021    | Virtual Retread                                 | preparation |
 | 22.02.2021    | JointLab Kick-off meeting                       | finished    |
-| 14.12.2020    | First AIOPS workshop                            | finished    |
+| 14.12.2020    | [First AIOPS workshop](https://aiopsworkshop.github.io/index.html)                            | finished    |
