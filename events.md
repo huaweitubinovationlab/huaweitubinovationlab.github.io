@@ -12,7 +12,8 @@ subtitle: Schedule of important events
 
 | Date          | Event                      | Status|
 |:-------------:|:--------------------------:|:-----:|
-| xx.xx.2021    | Second AIOPS workshop      | proposal submitted |
-| xx.06.2021    | Virtual Retread            | preparation |
-| 22.02.2021    | JointLab Kick-off meeting  | finished    |
-| 14.12.2020    | First AIOPS workshop       | finished    |
+| xx.xx.2021    | Second AIOPS workshop                           | proposal submitted |
+| xx.06.2021    | The 1st Network Verification Workshop           | preparation |
+| xx.06.2021    | Virtual Retread                                 | preparation |
+| 22.02.2021    | JointLab Kick-off meeting                       | finished    |
+| 14.12.2020    | First AIOPS workshop                            | finished    |
