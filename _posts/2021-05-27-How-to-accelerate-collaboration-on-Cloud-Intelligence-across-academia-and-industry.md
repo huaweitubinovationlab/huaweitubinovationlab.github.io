@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cloud Intelligence Panel discussion: How to accelerate collaboration on Cloud Intelligence across academia and industry?
+title: Cloud Intelligence Panel discussion
 subtitle: Notification
 cover-img: /assets/img/path.jpg
 cover-img: /img/news/2020-12-24/back_ground_img.jpeg
