@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AIOPS 2021: The Second International Workshop on Artificial Intelligence for IT Operations
+title: AIOPS 2021 The Second International Workshop on Artificial Intelligence for IT Operations
 subtitle: collocated with ICSOC 2021
 cover-img: /assets/img/path.jpg
 cover-img: /img/news/2020-12-24/back_ground_img.jpeg
