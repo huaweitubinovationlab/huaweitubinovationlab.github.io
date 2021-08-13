@@ -5,7 +5,7 @@ subtitle: collocated with ICSOC 2021
 cover-img: /assets/img/path.jpg
 cover-img: /img/news/2020-12-24/back_ground_img.jpeg
 thumbnail-img: /img/news/2020-12-24/background_image.png
-tags: [workshop, ICSOC, panel]
+tags: [workshop, ICSOC, AIOPS 2021]
 ---
 
 Following our last year success with organizing [AIOPS 2020](https://aiopsworkshop.github.io/index.html),
