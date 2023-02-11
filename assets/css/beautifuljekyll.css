@@ -815,7 +815,7 @@ table tr {
   padding: 0;
 }
 table tr:nth-child(2n) {
-  background-color: #C3002C;
+  background-color: #ffffff;
 }
 table tr th {
   font-weight: bold;
