@@ -8,7 +8,7 @@ Enlisted are some of our contributions to the area of AIOps:
 ### 2023
 
 **"Auto-Logging: AI-centered Logging Instrumentation"**  
-Bogatinovski	Jasmin, Kao Odej
+Bogatinovski	Jasmin, Kao Odej  
 45th International Conference on Software Engineering
 
 ### 2022
@@ -46,43 +46,43 @@ Wittkopp	Thorsten, Acker Alexander, Bogatinovski Jasmin, Nedelkoski Sasho, Schei
 
 
 **Leveraging Reinforcement Learning for Task Resource Allocation in Scientific Workflows**  
-Bader	Jonathan,	Zunker Nicolas, Becker Sören, Kao,Odej
+Bader	Jonathan,	Zunker Nicolas, Becker Sören, Kao,Odej  
 2022 IEEE International Conference on Big Data IEEE Press	New York
 
 
 **Towards Advanced Monitoring for Scientific Workflow**  
-Bader	Jonathan,	Witzke Joel, Becker Sören, Lößer Ansgar, Lehmann Fabian, Döhler Leon, Anhduc Vu
+Bader	Jonathan,	Witzke Joel, Becker Sören, Lößer Ansgar, Lehmann Fabian, Döhler Leon, Anhduc Vu  
 2022 IEEE International Conference on Big Data IEEE Press	New York
 
 **Lotaru: Locally Estimating Runtimes of Scientific Workflow Tasks in Heterogeneous Clusters**  
-Bader	Jonathan,	Lehmann Fabian, Thamsen Lauritz, Will Jonathan, Leser Ulf, Kao Odej
+Bader	Jonathan,	Lehmann Fabian, Thamsen Lauritz, Will Jonathan, Leser Ulf, Kao Odej  
 34th International Conference on Scientific and Statistical Database Management (SSDBM 2022)		ACM Press (Association for Computing Machinery)	New York
 
 **Lotaru: Locally Estimating Runtimes of Scientific Workflow Tasks in Heterogeneous Clusters**  
-Bader	Jonathan,	Lehmann Fabian, Thamsen Lauritz, Will Jonathan, Leser Ulf, Kao Odej
+Bader	Jonathan,	Lehmann Fabian, Thamsen Lauritz, Will Jonathan, Leser Ulf, Kao Odej  
 34th International Conference on Scientific and Statistical Database Management (SSDBM 2022)		ACM Press (Association for Computing Machinery)	New York
 
 **Efficient Runtime Profiling for Black-box Machine Learning Services on Sensor Streams**  
-Becker Sören,	Scheinert Dominik, Schmidt Florian, Kao Odej
+Becker Sören,	Scheinert Dominik, Schmidt Florian, Kao Odej  
 6th IEEE International Conference on Fog and Edge Computing 2022 IEEE Press	New York
 
 **Network Emulation in Large-Scale Virtual Edge Testbeds: A Note of Caution and the Way Forward**  
-Becker Sören,	Scheinert Dominik, Schmidt Florian, Kao Odej
+Becker Sören,	Scheinert Dominik, Schmidt Florian, Kao Odej  
 6th IEEE International Conference on Fog and Edge Computing 2022 IEEE Press	New York
 
 
 **Probabilistic Time Series Forecasting for Adaptive Monitoring in Edge Computing Environments**  
-Scheinert	Dominik, Aghdam Babak, Becker Sören, Thamsen Lauritz, Kao Odej
+Scheinert	Dominik, Aghdam Babak, Becker Sören, Thamsen Lauritz, Kao Odej  
 2022 IEEE International Conference on Big Data IEEE Press	New York
 
 
 **Let's Wait Awhile: How Temporal Workload Shifting Can Reduce Carbon Emissions in the Cloud**  
-Wiesner	Philipp, Behnke Ilja, Scheinert Dominik, Gontarska Kordian, Thamsen Lauritz
+Wiesner	Philipp, Behnke Ilja, Scheinert Dominik, Gontarska Kordian, Thamsen Lauritz  
 22nd International ACM/IFIP Middleware Conference		ACM Press (Association for Computing Machinery)	Quebec
 
 
 **Cucumber: Renewable-Aware Admission Control for Delay-Tolerant Cloud and Edge Workloads**  
-Wiesner	Philipp,	Scheinert Dominik, Wittkopp Thorsten, Thamsen Lauritz, Kao Odej
+Wiesner	Philipp,	Scheinert Dominik, Wittkopp Thorsten, Thamsen Lauritz, Kao Odej  
 28th International European Conference on Parallel and Distributed Computing (Euro-Par)		Springer/ Springer Nature	Glasgow	2022
 
 
