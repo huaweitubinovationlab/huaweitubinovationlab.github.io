@@ -12,6 +12,7 @@ If you are interested, so we kindly ask you to confirm your interest at [odej.ka
 
 
 Tentative List of participants:
+
 | Surname         | Name                      | Institution |
 |:-------------:|:--------------------------:|:-----:|
 | Acker    | Alexander | Logsight |
@@ -49,7 +50,8 @@ Tentative List of participants:
 
 
 Event organizers:
-| Surname         | Name                      | Institution |
+
+| Surname         | Name  | Institution |
 |:-------------:|:--------------------------:|:-----:|
 | Kao   | Odej | Technical University Berlin |
 | Cardoso    | Jorge | Huawei  |
