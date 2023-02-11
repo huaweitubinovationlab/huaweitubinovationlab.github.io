@@ -14,34 +14,34 @@ Bogatinovski	Jasmin, Kao Odej
 ### 2022
 
 **Failure Identification from Unstable Log Data using Deep Learning**  
-Bogatinovski	Jasmin,	Nedelkoski Sasho, Wu Li, Cardoso Jorge, Kao Odej
+Bogatinovski	Jasmin,	Nedelkoski Sasho, Wu Li, Cardoso Jorge, Kao Odej  
 22nd International Symposium on Cluster, Cloud and Internet Computing		IEEE Press	New York
 
 **Leveraging Log instructions for Log-based Anomaly Detection**  
-Bogatinovski	Jasmin, Madjarov Gjorgij, Nedelkoski Sasho, Cardoso Jorge, Kao Odej
+Bogatinovski	Jasmin, Madjarov Gjorgij, Nedelkoski Sasho, Cardoso Jorge, Kao Odej  
 2022 IEEE International Conference on Services Computing IEEE Press	New York
 
 **First CE Matters: On the Importance of Long Term Properties on Memory Failure Prediction**  
-Bogatinovski	Jasmin,	Qiao Yu, Cardoso Jorge, Kao Odej
+Bogatinovski	Jasmin,	Qiao Yu, Cardoso Jorge, Kao Odej  
 2022 IEEE International Conference on Big Data IEEE Press	New York
 
 **QuLog: Data-Driven Approach for Log Instruction Quality Assessment**  
-Bogatinovski	Jasmin,	Nedelkoski Sasho, Acker Alexander, Cardoso Jorge, Kao Odej
+Bogatinovski	Jasmin,	Nedelkoski Sasho, Acker Alexander, Cardoso Jorge, Kao Odej  
 30th International Conference on Program Comprehension ACM Press (Association for Computing Machinery)	New York
 
 
 **A Taxonomy of Anomalies in Log Data**  
-Wittkopp	Thorsten, Wiesner Philipp, Scheinert Dominik, Kao Odej
+Wittkopp	Thorsten, Wiesner Philipp, Scheinert Dominik, Kao Odej  
 2021 International Conference on Service Oriented Computing Springer Springer Nature	Dubai
 
 
 **LogLAB: Attention-Based Labeling of Log Data Anomalies via Weak Supervision**  
-Wittkopp Thorsten,	Acker Alexander, Wiesner Philipp, Scheinert Dominik
+Wittkopp Thorsten,	Acker Alexander, Wiesner Philipp, Scheinert Dominik  
 2021 International Conference on Service Oriented Computing Springer Nature	Dubai	2022
 
 
 **A2Log: Attentive Augmented Log Anomaly Detection**  
-Wittkopp	Thorsten, Acker Alexander, Bogatinovski Jasmin, Nedelkoski Sasho, Scheinert Dominik, Fan Wu, Kao Odej
+Wittkopp	Thorsten, Acker Alexander, Bogatinovski Jasmin, Nedelkoski Sasho, Scheinert Dominik, Fan Wu, Kao Odej  
 55th Hawaii International Conference on Systems Science University of Hawaii at Manoa Hamilton Library	USA	2022
 
 
