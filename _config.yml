@@ -11,13 +11,13 @@ description: Here goes our mission
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Huawei TUB Innovation LAB: "JointLab"
+  Huawei TUB Lab: "JointLab"
   Organization: "people"
   Acadenic Saloon: "academicsaloon"
   Publications: "paper"
   Events: "events"
-  Resources:
-    - DOS group: "https://github.com/dos-group"
+  # Resources:
+  #   - DOS group: "https://github.com/dos-group"
   #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -96,7 +96,7 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#C3002C"
+navbar-col: "#FFFFFF"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#C3002C"
 page-col: "#FFFFFF"

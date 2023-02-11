@@ -5,6 +5,79 @@ subtitle: List of Publications
 
 Enlisted are some of our contributions to the area of AIOps:
 
+
+
+### 2022
+
+
+
+**Failure Identification from Unstable Log Data using Deep Learning**  
+Bogatinovski	Jasmin,	Nedelkoski Sasho, Wu Li, Cardoso Jorge, Kao Odej
+22nd International Symposium on Cluster, Cloud and Internet Computing		IEEE Press	New York
+
+**Leveraging Log instructions for Log-based Anomaly Detection**  
+Bogatinovski	Jasmin, Madjarov Gjorgij, Nedelkoski Sasho, Cardoso Jorge, Kao Odej
+2022 IEEE International Conference on Services Computing IEEE Press	New York
+
+**First CE Matters: On the Importance of Long Term Properties on Memory Failure Prediction**  
+Bogatinovski	Jasmin,	Qiao Yu, Cardoso Jorge, Kao,Odej
+2022 IEEE International Conference on Big Data IEEE Press	New York
+
+**QuLog: Data-Driven Approach for Log Instruction Quality Assessment**  
+Bogatinovski	Jasmin,	Nedelkoski Sasho, Acker Alexander, Cardoso Jorge, Kao Odej
+30th International Conference on Program Comprehension ACM Press (Association for Computing Machinery)	New York
+
+
+Wittkopp	Thorsten	Wiesner,Philipp;Scheinert,Dominik;Kao,Odej		A Taxonomy of Anomalies in Log Data		2021 International Conference on Service Oriented Computing		Springer/ Springer Nature	Dubai	2022	153	0	978-3-031-14134-8	978-3-031-14135-5					Ja		Fullpaper	Konferenzband				Ja	Ja	Forschung
+
+Wittkopp	Thorsten	Acker,Alexander;Wiesner,Philipp;Scheinert,Dominik		LogLAB: Attention-Based Labeling of Log Data Anomalies via Weak Supervision		2021 International Conference on Service Oriented Computing		Springer/ Springer Nature	Dubai	2022	700	0	978-3-030-91430-1	978-3-030-91431-8					Ja		Fullpaper	Konferenzband				Ja	Ja	Forschung
+
+Wittkopp	Thorsten	Acker,Alexander;Bogatinovski,Jasmin;Nedelkoski,Sasho;Scheinert,Dominik;Fan,Wu;Kao,Odej		A2Log: Attentive Augmented Log Anomaly Detection		55th Hawaii International Conference on Systems Science		University of Hawai'i at Manoa / Hamilton Library	USA	2022	1853	0	978-0-9981331-5-7	978-0-9981331-5-7					Ja		Fullpaper	Konferenzband				Ja	Ja	Forschung
+
+
+
+**Leveraging Reinforcement Learning for Task Resource Allocation in Scientific Workflows**  
+Bader	Jonathan,	Zunker Nicolas, Becker Sören, Kao,Odej
+2022 IEEE International Conference on Big Data IEEE Press	New York
+
+
+**Towards Advanced Monitoring for Scientific Workflow**  
+Bader	Jonathan,	Witzke Joel, Becker Sören, Lößer Ansgar, Lehmann Fabian, Döhler Leon, Anhduc Vu
+2022 IEEE International Conference on Big Data IEEE Press	New York
+
+**Lotaru: Locally Estimating Runtimes of Scientific Workflow Tasks in Heterogeneous Clusters**  
+Bader	Jonathan,	Lehmann Fabian, Thamsen Lauritz, Will Jonathan, Leser Ulf Kao Odej
+34th International Conference on Scientific and Statistical Database Management (SSDBM 2022)		ACM Press (Association for Computing Machinery)	New York
+
+
+**Lotaru: Locally Estimating Runtimes of Scientific Workflow Tasks in Heterogeneous Clusters**  
+Bader	Jonathan,	Lehmann Fabian, Thamsen Lauritz, Will Jonathan, Leser Ulf Kao Odej
+34th International Conference on Scientific and Statistical Database Management (SSDBM 2022)		ACM Press (Association for Computing Machinery)	New York
+
+
+
+
+
+Becker	Sören	Scheinert,Dominik;Schmidt,Florian;Kao,Odej		Efficient Runtime Profiling for Black-box Machine Learning Services on Sensor Streams		6th IEEE International Conference on Fog and Edge Computing 2022		IEEE Press	New York	2022	88	0	9781450396677						Ja		Fullpaper	Konferenzband				Ja	Ja	Forschung
+
+Becker	Sören	Pfandzeltner,Tobias;Japke,Nils;Bermbach,David;Kao,Odej		Network Emulation in Large-Scale Virtual Edge Testbeds: A Note of Caution and the Way Forward		2022 IEEE International Conference on Cloud Engineering (IC2E)		IEEE Press	New York	2022	1	0	978-1-6654-9116-7	978-1-6654-9115-0					Ja		Fullpaper	Konferenzband				Ja	Ja	Forschung
+
+Becker	Sören	Styp-Rekowski,Kevin;Stoll,Oliver;Kao,Odej		Federated Learning for Autoencoder-based Condition Monitoring in the Industrial Internet of Things		2022 IEEE International Conference on Big Data		IEEE Press	New York	2022	5424	0	978-1-6654-8046-8	978-1-6654-8045-1					Ja		Fullpaper	Konferenzband				Ja	Nein	Forschung
+
+
+Scheinert	Dominik	Aghdam,Babak;Becker,Sören;Thamsen,Lauritz;Kao,Lauritz		Probabilistic Time Series Forecasting for Adaptive Monitoring in Edge Computing Environments		2022 IEEE International Conference on Big Data		IEEE Press	New York	2022	4583	0	978-1-6654-8046-8	978-1-6654-8045-1					Ja		Fullpaper	Konferenzband				Ja	Ja	Forschung
+
+Styp-Rekowski	Kevin	Stolle,Claudia;Michaelis,Ingo;Kao,Odej		Calibration of the GRACE-FO Satellite Platform Magnetometers and Co-Estimation of Intrinsic Time Shift in Data		2021 IEEE International Conference on Big Data		IEEE Press	New York	2022	5283	0	978-1-6654-4599-3	978-1-6654-3902-2					Ja		Fullpaper	Konferenzband				Ja	Nein	Forschung
+
+
+Wiesner	Philipp	Behnke,Ilja;Scheinert,Dominik;Gontarska,Kordian;Thamsen,Lauritz		Let's Wait Awhile: How Temporal Workload Shifting Can Reduce Carbon Emissions in the Cloud		22nd International ACM/IFIP Middleware Conference		ACM Press (Association for Computing Machinery)	Quebec	2022	260	0	978-1-4503-8534-3						Ja		Fullpaper	Konferenzband				Ja	Ja	Forschung
+
+Wiesner	Philipp	Scheinert,Dominik;Wittkopp,Thorsten;Thamsen,Lauritz;Kao,Odej		Cucumber: Renewable-Aware Admission Control for Delay-Tolerant Cloud and Edge Workloads		28th International European Conference on Parallel and Distributed Computing (Euro-Par)		Springer/ Springer Nature	Glasgow	2022	218	0	978-3-031-12596-6	978-3-031-12597-3					Ja		Fullpaper	Konferenzband				Ja	Ja	Forschung
+
+Will	Jonathan	Thamsen,Lauritz;Bader,Jonathan;Scheinert,Dominik;Kao,Odej		Ruya: Memory-Aware Iterative Optimization of Cluster Configurations for Big Data Processing		2022 IEEE International Conference on Big Data		IEEE Press	New York	2022	161	0	978-1-6654-8046-8	978-1-6654-8045-1					Ja		Fullpaper	Konferenzband				Ja	Ja	Forschung
+
+
+
 ### 2021
 
 **Robust and Transferable Anomaly Detection in Log Data using Pre-Trained Language Models**  
