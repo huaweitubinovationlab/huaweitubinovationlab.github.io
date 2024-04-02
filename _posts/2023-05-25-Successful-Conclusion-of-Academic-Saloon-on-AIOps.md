@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Third International Wokrshop on AIOps
+title: Academic Salon
+subtitle: (event sumamry)
 cover-img: /assets/img/path.jpg
 cover-img: /img/news/2020-12-24/back_ground_img.jpeg
 thumbnail-img: /img/news/2020-12-24/background_image.png
-tags: [Academic Saloon, Berlin, AIOps]
+tags: [papers]
 ---
 
 
