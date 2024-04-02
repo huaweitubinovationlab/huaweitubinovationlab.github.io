@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper Alert
+title: Papers Alert
 cover-img: /assets/img/path.jpg
 cover-img: /img/news/2020-12-24/back_ground_img.jpeg
 thumbnail-img: /img/news/2020-12-24/background_image.png
