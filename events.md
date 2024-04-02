@@ -12,7 +12,7 @@ subtitle: Schedule of important events
 
 | Date          | Event                      | Status|
 |:-------------:|:--------------------------:|:-----:|
-| 22-25.05.2023 | [Academic Saloon](https://huaweitubinovationlab.github.io/academicsaloon/)                           | preparation |
+| 22-25.05.2023 | [Academic Saloon](https://huaweitubinovationlab.github.io/academicsaloon/)                           | finished |
 | 22.11.2021    | [Second AIOPS workshop](https://aiops2021.github.io/)                           | finished |
 | 29.07.2021    | [The 1st Network Verification Workshop](https://networkverification-workshop.github.io/)           | finished |
 | 02.06.2021    | Virtual Retread                                 | finished |
