@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Successful-Conclusion-of-the-Third-International-Workshop-AIOPS-2023
+title: Successful Conclusion of the Third International Workshop AIOPS 2023
 subtitle: collocated with ICDM 2023
 cover-img: /assets/img/path.jpg
 cover-img: /img/news/2020-12-24/back_ground_img.jpeg
