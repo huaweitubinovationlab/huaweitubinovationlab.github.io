@@ -4,8 +4,42 @@ subtitle: List of Publications
 ---
 
 Enlisted are some of our contributions to the area of AIOps:
+### 2024
+
+**"LogRCA: Log-Based Root Cause Analysis for Distributed Services"**
+Thorsten Wittkopp, Philipp Wiesner, Odej Kao
+30th International European Conference on Parallel and Distributed Computing (Euro-Par), 362–376. 2024. 
+
+**"KS+: Predicting Workflow Task Memory Usage Over Time"**
+Jonathan Bader, Ansgar Lößer, Lauritz Thamsen, Björn Scheuermann, Odej Kao
+2024 IEEE 20th International Conference on e-Science (e-Science). 2024. 
+
+**"Sizey: Memory-Efficient Execution of Scientific Workflow Tasks"**
+Jonathan Bader, Fabian Skalski, Fabian Lehmann, Dominik Scheinert, Jonathan Will, Lauritz Thamsen, Odej Kao
+2024 IEEE International Conference on Cluster Computing (CLUSTER). 2024. 
+
+**"Investigating Memory Failure Prediction Across CPU Architectures"**
+Qiao Yu, Wengui Zhang, Min Zhou, Jialiang Yu, Zhenli Sheng, Jasmin Bogatinovski, Jorge Cardoso, Odej Kao
+54th IEEE/IFIP International Conference on Dependable Systems and Networks - Supplemental Volume (DSN-S). 2024. 
+
+**"Unveiling DRAM Failures across Different CPU Architectures in Large-Scale Datacenters"**
+Qiao Yu, Jorge Cardoso, Odej Kao
+44th IEEE International Conference on Distributed Computing Systems (ICDCS), 1-2. 2024. 
+
+**"Lotaru: Locally predicting workflow task runtimes for resource management on heterogeneous infrastructures"**
+Jonathan Bader, Fabian Lehmann, Lauritz Thamsen, Ulf Leser, Odej Kao
+Future Generation Computer Systems, 171–185. 2024. 
+
 
 ### 2023
+
+**"Progressing from Anomaly Detection to Automated Log Labeling and Pioneering Root Cause Analysis"**
+Thorsten Wittkopp, Alexander Acker, Odej Kao
+2023 IEEE International Conference on Data Mining Workshops (ICDMW), 1231–1239. 2023. 
+
+**"Exploring Error Bits for Memory Failure Prediction: An In-Depth Correlative Study"**
+Qiao Yu, Wengui Zhang, Jorge Cardoso, Odej Kao
+2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD). 2023.
 
 **"Auto-Logging: AI-centered Logging Instrumentation"**  
 Bogatinovski	Jasmin, Kao Odej  
