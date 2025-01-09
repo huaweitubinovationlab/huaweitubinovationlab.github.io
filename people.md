@@ -5,27 +5,27 @@ technical-streeing-committee:
   - name: Odej Kao
     img: /img/people/odej-kao.jpg
     desc: Chair, Project Managment Office
-    website: https://www.cit.tu-berlin.de/kao/
-  - name: Jorge Cardoso
-    img: /img/people/jorge-cardoso.jpeg
+    website: https://www.tu.berlin/dos
+  - name: Götz Brasche
+    img: /img/people/goetz.jpg
     desc: Chair
-    website: https://jorge-cardoso.github.io/
+  
 research-and-development-Team1:
   - name: Odej Kao
     img: /img/people/odej-kao.jpg
     desc: TUB Project Coordinator
-    website: https://www.cit.tu-berlin.de/kao/
-  - name: Jorge Cardoso
-    img: /img/people/jorge-cardoso.jpeg
+    website: https://www.tu.berlin/dos
+  - name: Götz Brasche
+    img: /img/people/goetz.jpg
     desc: Huawei Project Coordinator
-    website: https://jorge-cardoso.github.io/
+   
 research-and-development-Team2:
   - name: Stefan Schmid
     img: /img/people/stefan-schmid.jpg
     desc: TUB Project Coordinator
     website: https://www.univie.ac.at/ct/stefan/
-  - name: Zhang Ke
-    img: /img/people/default.jpg
+  - name: Stefano Bortoli
+    img: /img/people/stefano.jpg
     desc: Huawei Project Cooridantor
 ---
 
@@ -63,23 +63,26 @@ We are extremely lucky to have the following people supporting and guiding our e
 
 <!--
 members:
+ - name: Anton Altenbernd
+    img: /img/people/default.jpeg
+    desc: PhD student
   - name: Jasmin Bogatinovski
     img: /img/people/jasmin-bogatinovski.jpeg
-    desc: PhD student
+    desc: PostDoc
     website: https://www.cit.tu-berlin.de/kao/
   - name: Nedelkoski Sasho
     img: /img/people/sasho.jpg
-    desc: PhD Student
+    desc: PostDoc
     url: https://www.user.tu-berlin.de/sasho/
   - name: Acker Alexander
     img: /img/people/alex.jpg
-    desc: PhD Student
+    desc: PostDoc
   - name: Soeren Becker
     img: /img/people/zoki.png
-    desc: PhD student
+    desc: PostDoc
   - name: Li Wu
     img: /img/people/li.jpg
-    desc: PhD student
+    desc: PostDoc
   - name: Thorsten Wittkopp
-    img: /img/people/li.jpg
-    desc: PhD student -->
+    img: /img/people/default.jpg
+    desc: PostDoc -->
