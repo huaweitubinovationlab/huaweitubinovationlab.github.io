@@ -155,10 +155,22 @@ Scheinert	Dominik, Aghdam Babak, Becker Sören, Thamsen Lauritz, Kao Odej
 Wiesner	Philipp, Behnke Ilja, Scheinert Dominik, Gontarska Kordian, Thamsen Lauritz  
 22nd International ACM/IFIP Middleware Conference		ACM Press (Association for Computing Machinery)	Quebec
 
-
 **Cucumber: Renewable-Aware Admission Control for Delay-Tolerant Cloud and Edge Workloads**  
 Wiesner	Philipp,	Scheinert Dominik, Wittkopp Thorsten, Thamsen Lauritz, Kao Odej  
 28th International European Conference on Parallel and Distributed Computing (Euro-Par)		Springer/ Springer Nature	Glasgow	2022
+
+**R-mpls: recursive protection for highly dependable mpls networks**
+Stefan Schmid, Morten Konggaard Schou, Jiří Srba, and Juan Vanerio.
+The 18th International Conference on Emerging Networking EXperiments and Technologies, CoNEXT ’22, page 276–292, New York, NY, USA, 2022
+ 
+**Mpls-kit: An mpls data plane toolkit**
+Juan Vanerio, Stefan Schmid, Morten Konggaard Schou, and Jiří Srba.
+The 18th International Conference on Emerging Networking EXperiments and Technologies, CoNEXT ’22, page 276–292, New York, NY, USA, 2022
+
+**Improved throughput for all-or-nothing multicommodity flows with arbitrary demands**
+Anya Chaturvedi, Chandra Chekuri, Andr´ea W. Richa, Matthias Rost, Stefan Schmid and Jamison Weber.
+SIGMETRICS Perform. Eval. Rev., 49(3):22–27, March 2022
+
 
 
 
