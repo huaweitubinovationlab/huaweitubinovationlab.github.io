@@ -26,7 +26,7 @@ research-and-development-Team2:
     website: https://www.univie.ac.at/ct/stefan/
   - name: Stefano Bortoli
     img: /img/people/Stefano.jpg
-    desc: Huawei Project Cooridantor
+    desc: Huawei Project Coordinator
 ---
 
 
