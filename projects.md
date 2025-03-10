@@ -32,4 +32,4 @@ While the former method can address certain issues that are actually logged, it 
 
 **Resources:** 
 * [Presentations](https://tubcloud.tu-berlin.de/s/XiZK3px36tKfGwa?path=%2F2021-2022%2Fpresentations)
-* [Code](https://tubcloud.tu-berlin.de/s/XiZK3px36tKfGwa?path=%2F2021-2022%2Fcode)
+* [Deliverables](https://tubcloud.tu-berlin.de/s/XiZK3px36tKfGwa?path=%2F2021-2022%2Fdeliverables)
