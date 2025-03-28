@@ -33,3 +33,8 @@ While the former method can address certain issues that are actually logged, it 
 **Resources:** 
 * [Presentations](https://tubcloud.tu-berlin.de/s/XiZK3px36tKfGwa?path=%2F01_intelligent-log-analysis%2Fpresentations)
 * [Deliverables](https://tubcloud.tu-berlin.de/s/XiZK3px36tKfGwa?path=%2F01_intelligent-log-analysis%2Fcode)
+
+### 2021 - 2025 Management Minutes
+The management board of the inovation labs met approximately every four months to review the progress and define the next steps. The minutes of these meetings are are stored on the following location:
+* [Minutes](https://tubcloud.tu-berlin.de/s/XiZK3px36tKfGwa?path=%2F04_minutes)
+ 
